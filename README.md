@@ -1,2 +1,2 @@
-# SpringBoot-Hibernate-Mysql8
-SpringBoot+Hibernate+Mysql8
+# SpringBoot-Hibernate-Mysql8 Demo
+SpringBoot+Hibernate+Mysql8 Demo
